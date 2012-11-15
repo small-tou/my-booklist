@@ -23,6 +23,7 @@ my-booklist
 * javascript 设计模式
 * actionscript 大型网页游戏开发
 * advanced actionscript 3.0 animation
+* objective-c 2.0 程序设计
 
 ###数学：
 
